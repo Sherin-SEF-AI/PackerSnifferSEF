@@ -1,4 +1,4 @@
-# PackerSnifferSEF
+# PacketSnifferSEF
 Python GUI application for packet sniffer
 # Packet Sniffer Application
 
